@@ -1,0 +1,145 @@
+
+body {
+  margin: 0;
+  width: 100%;
+  text-align: center;
+  font-family: Montserrat;
+  line-height: 2.2;
+  color: #fff;
+}
+
+
+
+
+/********************************************CLASS SELECTORS***********************************************/
+
+
+.big-heading {
+  font-family: "hysteria";
+  color: #ff427f;
+  text-align: left;
+  padding-top: 20%;
+  font-size: 5rem;
+}
+
+/* Container section */
+
+.container-fluid {
+  padding: 5% 15%;
+  text-align: center;
+}
+
+.contenedor {
+  position: relative;
+  display: inline-block;
+  text-align: center;
+}
+
+.colored-section {
+  background-color: #d4f8e8;
+}
+
+.purple-section {
+    background-color: #be9fe1;
+}
+
+/* Navbar Section */
+
+.nav-item {
+  padding: 0 15px;
+}
+
+.navbar-brand {
+  font-weight: bold;
+}
+
+
+/* Portada Birthday */
+
+#portada {
+  height: 100%;
+}
+
+.white-section {
+  padding-bottom: 0;
+}
+
+.intro-test {
+  margin: 15%;
+}
+
+.intro-image {
+  width: 100%;
+  margin: 15% 0;
+}
+
+/* Todas section */
+
+.todas-title {
+  font-family: "hysteria";
+  color: #be9fe1;
+  font-size: 3.5rem;
+}
+
+
+
+
+/* Testimonials */
+
+#testimonial-carousel {
+  height: 600px;
+}
+
+.testimonial-image {
+  width: 12%;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+.testimonial-text {
+  font-family: 'Shadows Into Light';
+  font-size: 2.2rem;
+  line-height: 1.2;
+}
+
+.testimonial-short {
+  padding-top: 2%;
+  font-family: 'Shadows Into Light';
+  font-size: 2.5rem;
+  line-height: 1.2;
+}
+
+.testimonial-xshort {
+  padding-top: 10%;
+  font-family: 'Shadows Into Light';
+  font-size: 2.6rem;
+  line-height: 1.4;
+}
+
+/* Galeria */
+
+.galeria-texto {
+  padding-top: 2%;
+  font-size: 1.7rem;
+  color: #ff427f;
+  padding-top: 12%;
+  text-align: left;
+}
+
+.galeria-images {
+  width: 100%;
+}
+
+.galeria-firma {
+  font-family: "hysteria";
+  font-size: 2.5rem;
+  text-align: left;
+  padding: 15%;
+  color: #be9fe1;
+}
+
+/* Coronavirus */
+
+.quarantine {
+  width: 100%;
+}
